@@ -166,6 +166,16 @@ body{
     background:  #B81365;
     color: #ffffff !important;
 }
+
+/* order-cakes-underline */
+.order-cakes-underline {
+    width: 11rem;
+    height: .3rem;
+    background-color: #B81365;
+    margin: 0 auto;
+    border-radius: 100%;
+
+}
 /*footer*/
 .footer-title {
     background: #333;
