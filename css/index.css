@@ -10,7 +10,7 @@ body{
 }
 /* navbar */
 .navbar {
-    background: rgb(219, 164, 164);
+    background: rgb(230, 219, 219);
 }
 /*nav links*/
 .navbar-toggler {
@@ -65,7 +65,7 @@ body{
     cursor: pointer;
 }
 .banner-link {
-    color: #333;
+    color:  #B81365;
     font-size: 1.5rem;
     border: 0.1rem solid #333333;
 }
