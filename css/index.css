@@ -22,7 +22,7 @@ body{
 }
 .nav-link {
     color:  #B81365;
-    font-size: 1rem;
+    font-size: 1.1rem;
     transition: all 0.5s ease-in-out;
 }
 .nav-link:hover {
@@ -58,7 +58,7 @@ body{
 }
 .banner {
     color: #ffffff;
-    margin-top: -10rem;
+    margin-top: -10.3rem;
 }
 .banner-title {
     color:  #B81365;
