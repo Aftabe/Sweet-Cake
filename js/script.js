@@ -1,2 +1,1 @@
-alert('Welcome To The Sweet-Shop!');
-alert('This template is built based on Bootstrap4');
+alert('Welcome To The Sweet-Shop!. This theme is built based on boostrap4');
