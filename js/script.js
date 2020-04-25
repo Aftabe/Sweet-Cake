@@ -1,9 +1,8 @@
-let getElement = document.getElementById('footer-contact');
+let getEl = document.querySelector('.banner h1');
 
 
+// console.log(getEl);
 
-getElement.forEach(function(odd) {
-    odd.style.backgroundColor = 'red';
-    odd.style.color  = 'white';
-    odd.style.padding  = '10px';
+getEl.forEach(function(mo){
+mo.style.color = 'red';
 });
