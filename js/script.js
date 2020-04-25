@@ -5,3 +5,10 @@ oddLinks.forEach(function(odd) {
     odd.style.backgroundColor = 'red';
     odd.style.color  = 'white';
 });
+
+
+
+const aboutEl = document.getElementById('about-text');
+
+aboutEl.style.backgroundColor = 'blue';
+aboutEl.style.color = 'red';
