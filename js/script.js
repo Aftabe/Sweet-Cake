@@ -6,3 +6,11 @@
     alert('Please type your name');
   }
 }());
+
+$(document).ready(function(){
+  $(".jQuery-btn").click(function(){
+    $("#j-id").fadeToggle();
+    // $("#div2").fadeToggle("slow");
+    // $("#div3").fadeToggle(3000);
+  });
+});
